@@ -10,8 +10,7 @@ la columna entre otras cosas.
 Además agrega unas gráficas mostrando la cantidadde personajes que hay por casa y una más
 enseñando la especie a la que pertenencen.
 
- ```
  ![](https://media.giphy.com/media/R65bZxLDrX2Mw/giphy.gif)  
+
  
  *Source: [GIPHY](https://media.giphy.com/media/R65bZxLDrX2Mw/giphy.gif)*
- ```
